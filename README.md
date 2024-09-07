@@ -13,7 +13,7 @@ The dataset has five types of transactions:
 4. **PAYMENT** is the purchase of goods or services.
 5. **TRANSFER** involves moving money from one user’s account to another user’s account.
 
-You will also see two fields related to fraud tagging. IsFlaggedFraud is fraud detected by their automation system while IsFraud is fraud that truly occurred.
+You will also see two fields related to fraud tagging. **IsFlaggedFraud** is fraud detected by their automation system while **IsFraud** is fraud that truly occurred.
 
 ## Purpose
 Being able to query and visualize large datasets helps provide critical information for which areas need additional investment. This is not limited to financial systems but internal computer information systems as well.
